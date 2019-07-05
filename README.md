@@ -7,12 +7,12 @@ En la lonja de un puerto pesquero gallego, un gallego emprendedor ha decidido co
 Para el primer viaje ha comprado 50 Kg de vieiras, 100 Kg de pulpo y otros 50 Kg de centollos, pero se pregunta dónde debería vender esta carga para obtener el máximo beneficio.
 
 Para ello conoce los precios de venta en los diferentes mercados locales:
-
+```
 €/Kg        | MADRID | BARCELONA | LISBOA
 Vieiras     |  500   |    450    |  600
 Pulpo       |    0   |    120    |  100
 Centollos   |  450   |      0    |  500
-
+```
 Pero además hay que tener en cuenta que tan sólo cargar la furgoneta le cuesta 5 € más 2 € por cada Km recorrido.
 
 Las distancias hasta los posibles destinos son:
